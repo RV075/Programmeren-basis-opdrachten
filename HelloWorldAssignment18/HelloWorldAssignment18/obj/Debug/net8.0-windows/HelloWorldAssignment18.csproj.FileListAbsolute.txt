@@ -1,0 +1,16 @@
+C:\Users\roxan\source\repos\HelloWorldAssignment18\HelloWorldAssignment18\obj\Debug\net8.0-windows\HelloWorldAssignment18.Form1.resources
+C:\Users\roxan\source\repos\HelloWorldAssignment18\HelloWorldAssignment18\obj\Debug\net8.0-windows\HelloWorldAssignment18.csproj.GenerateResource.cache
+C:\Users\roxan\source\repos\HelloWorldAssignment18\HelloWorldAssignment18\obj\Debug\net8.0-windows\HelloWorldAssignment18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roxan\source\repos\HelloWorldAssignment18\HelloWorldAssignment18\obj\Debug\net8.0-windows\HelloWorldAssignment18.AssemblyInfoInputs.cache
+C:\Users\roxan\source\repos\HelloWorldAssignment18\HelloWorldAssignment18\obj\Debug\net8.0-windows\HelloWorldAssignment18.AssemblyInfo.cs
+C:\Users\roxan\source\repos\HelloWorldAssignment18\HelloWorldAssignment18\obj\Debug\net8.0-windows\HelloWorldAssignment18.csproj.CoreCompileInputs.cache
+C:\Users\roxan\source\repos\HelloWorldAssignment18\HelloWorldAssignment18\bin\Debug\net8.0-windows\HelloWorldAssignment18.exe
+C:\Users\roxan\source\repos\HelloWorldAssignment18\HelloWorldAssignment18\bin\Debug\net8.0-windows\HelloWorldAssignment18.deps.json
+C:\Users\roxan\source\repos\HelloWorldAssignment18\HelloWorldAssignment18\bin\Debug\net8.0-windows\HelloWorldAssignment18.runtimeconfig.json
+C:\Users\roxan\source\repos\HelloWorldAssignment18\HelloWorldAssignment18\bin\Debug\net8.0-windows\HelloWorldAssignment18.dll
+C:\Users\roxan\source\repos\HelloWorldAssignment18\HelloWorldAssignment18\bin\Debug\net8.0-windows\HelloWorldAssignment18.pdb
+C:\Users\roxan\source\repos\HelloWorldAssignment18\HelloWorldAssignment18\obj\Debug\net8.0-windows\HelloWorldAssignment18.dll
+C:\Users\roxan\source\repos\HelloWorldAssignment18\HelloWorldAssignment18\obj\Debug\net8.0-windows\refint\HelloWorldAssignment18.dll
+C:\Users\roxan\source\repos\HelloWorldAssignment18\HelloWorldAssignment18\obj\Debug\net8.0-windows\HelloWorldAssignment18.pdb
+C:\Users\roxan\source\repos\HelloWorldAssignment18\HelloWorldAssignment18\obj\Debug\net8.0-windows\HelloWorldAssignment18.genruntimeconfig.cache
+C:\Users\roxan\source\repos\HelloWorldAssignment18\HelloWorldAssignment18\obj\Debug\net8.0-windows\ref\HelloWorldAssignment18.dll
